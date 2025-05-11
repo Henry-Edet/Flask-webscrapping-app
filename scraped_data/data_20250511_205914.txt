@@ -1,0 +1,29 @@
+We read every piece of feedback, and take your input very seriously.
+
+            To see all available qualifiers, see our documentation.
+          
+Join the world’s most widely adopted AI-powered developer platform.
+Build code quickly and more securely with GitHub Copilot embedded throughout your workflows.
+With GitHub Copilot embedded throughout the platform, you can simplify your toolchain, automate tasks, and improve the developer experience.
+Duolingo boosts developer speed by 25% with GitHub Copilot
+2024 Gartner® Magic Quadrant™ for AI Code Assistants
+Optimize your process with simple and secured CI/CD.
+Start building instantly with a comprehensive dev environment in the cloud.
+Manage projects and chat with GitHub Copilot from anywhere.
+Sync with 17,000+ integrations and a growing library of Copilot Extensions.
+Use AI to find and fix vulnerabilities—freeing your teams to ship more secure software faster.
+Solve security debt. Leverage AI-assisted security campaigns to reduce application vulnerabilities and zero-day attacks.
+Dependencies you can depend on. Update vulnerable dependencies with supported fixes for breaking changes.
+Your secrets, your business: protected. Detect, prevent, and remediate leaked secrets across your organization.
+Collaborate with your teams, use management tools that sync with your projects, and code from anywhere—all on a single, integrated platform.
+Create issues and manage projects with tools that adapt to your code.
+Create space for open-ended conversations alongside your project.
+Create review processes that improve code quality and fit neatly into your workflow.
+Become an open source partner and support the tools and libraries that power your work.
+Figma streamlines development and strengthens security
+Mercedes-Benz standardizes source code and automates onboarding
+Mercado Libre cuts coding time by 50%
+Whether you’re scaling your development process or just learning how to code, GitHub is where you belong. Join the world’s most widely adopted AI-powered developer platform to build the technologies that redefine what’s possible.
+Survey: The AI wave continues to grow on software development teams, 2024.
+This 7X times factor is based on data from the industry’s longest running analysis of fix rates Veracode State of Software Security 2023, which cites the average time to fix 50% of flaws as 198 days vs. GitHub’s fix rates of 72% of flaws with in 28 days which is at a minimum of 7X faster when compared.
+Get tips, technical guides, and best practices. Twice a month. Right in your inbox.

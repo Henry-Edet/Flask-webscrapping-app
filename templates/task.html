@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block title %}Task{% endblock %}
+
+{% block content %}
+<section class="task-section">
+    <h2>Web Scraping Task</h2>
+    <form method="POST" action="{{ url_for('task') }}">
+        <label for="url">Enter a URL:</label>
+        <input type="url" name="url" id="url" required placeholder="https://example.com">
+        <button type="submit">Submit</button>
+    </form>
+</section>
+{% endblock %}
