@@ -51,3 +51,7 @@ Displays "postcards" for each group member, including:
     # Install dependencies
     pip install -r requirements.txt
 
+📅 Running the App
+➕ Start the Web App
+
+
