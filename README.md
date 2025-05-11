@@ -54,4 +54,5 @@ Displays "postcards" for each group member, including:
 📅 Running the App
 ➕ Start the Web App
 
+        python app.py
 
