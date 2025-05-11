@@ -56,3 +56,11 @@ Displays "postcards" for each group member, including:
 
         python app.py
 
+
+
+⏰ Background Job: Daily Scraping
+This project uses the schedule library to scrape and email daily at 8:00 AM. If you want to test it manually, run the background job in a separate thread:
+    
+    import threading
+    threading.Thread(target=run_scheduler).start()
+
